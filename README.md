@@ -9,11 +9,10 @@
         <a href="https://www.linkedin.com/in/mostafa-ahmed-go/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.upwork.com/freelancers/~01124a626c4d5c572b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
 <div align=left>
- <br> <strong>
+ <br> 
                 
-I am passionate about learning Linux, Virtualization, Cloud Computing, DevOps and New Technologies.
+I'm passionate about learning Linux, Virtualization, Cloud Computing, DevOps and New Technologies.
 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-</strong>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
