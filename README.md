@@ -10,13 +10,11 @@
         <a href="https://www.upwork.com/freelancers/~01124a626c4d5c572b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
   <div align=left>
         <br>
-        <p>
             <strong>
                 
                 I am passionate about learning Linux, Virtualization, Cloud Computing, DevOps and New Technologies.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
-        </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
