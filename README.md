@@ -1,4 +1,3 @@
-### Hi there 👋
 <div>
     <div align=center>
         <img src="https://raw.githubusercontent.com/Mostafa9766/Mostafa9766/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
