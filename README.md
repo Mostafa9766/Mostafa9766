@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/Mostafa9766/Mostafa9766/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mostafa+%F0%9F%91%8B;Cloud+DevOps+Engineer;Problem+Solver;Freelancer" alt="Headline" />
