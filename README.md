@@ -11,7 +11,7 @@
 <div align=left>
  <br> 
                 
-I'm passionate about learning Linux, Virtualization, Cloud Computing, DevOps and New Technologies.
+I'm passionate about learning  DevOps, Cloud Computing, Linux and New Technologies.
 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
