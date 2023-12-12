@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+I'm+Mostafa..&hearts;++;Cloud+DevOps+Engineer,;Problem+Solver,;Love+to+learn+new+technologies..<3"></a>
 </p>
     <div align=center>
-<picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="center" src="https://github.com/Mostafa9766/Mostafa9766/blob/main/Right_Side.gif" width = 250px></picture>
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/mostafa-ahmed-go/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
